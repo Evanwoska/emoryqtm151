@@ -185,6 +185,7 @@ Try it yourself!
 - Select "nationality" and "driver_id" for drivers <br>
 with more than 60 victories
 -- SQLBook: Code
+-- Active: 1679250195435@@127.0.0.1@5432@postgres
 -- Write your own code!
 
 
